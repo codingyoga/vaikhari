@@ -4,6 +4,10 @@ Real-time speech coach for live calls. You speak naturally on Zoom; Vaikhari lis
 
 > **Vaikhari** (वैखरी) — Sanskrit for *articulated speech*: thought made into clear, spoken form.
 
+<p align="center">
+  <img src="screenshots/coach-mode.png" alt="Vaikhari coach mode — persona selector, mic button, live transcript, polished feed" width="720" />
+</p>
+
 ## How it works (Coach Mode)
 
 ```
